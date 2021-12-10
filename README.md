@@ -1,2 +1,7 @@
-# AzurePenetrationTesting
-Azure Penetration Testing videos &amp; blogs
+# Azure Penetration Testing
+
+# Videos
+Coming Soon
+
+# Blogs
+Coming Soon
