@@ -1,7 +1,8 @@
 # Azure Penetration Testing
 
 # Videos
-Coming Soon
+Coming Soon in April 2022
 
 # Blogs
-Coming Soon
+Coming Soon in April 2022
+
