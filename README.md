@@ -13,6 +13,8 @@
 - Gathering Subscription access information with PowerZure <br/> https://dev.to/cheahengsoon/gathering-subscription-access-information-with-powerzure-2poc
 - Enumerating subscription information with MicroBurst <br/> https://dev.to/cheahengsoon/enumerating-subscription-information-with-microburst-35a1
 - Exfiltering VM disks using PowerZure <br/> https://dev.to/cheahengsoon/exfiltering-vm-disks-using-powerzure-2fp5
+- Extracting credentials from App Service <br/> https://dev.to/cheahengsoon/extracting-credentials-from-app-service-51e7
+- Extracting stored passwords and certificates from Automation accounts <br/> https://dev.to/cheahengsoon/extracting-stored-passwords-and-certificates-from-automation-accounts-f7n
 
 
 
