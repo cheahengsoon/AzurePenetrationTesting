@@ -15,6 +15,7 @@
 - Exfiltering VM disks using PowerZure <br/> https://dev.to/cheahengsoon/exfiltering-vm-disks-using-powerzure-2fp5
 - Extracting credentials from App Service <br/> https://dev.to/cheahengsoon/extracting-credentials-from-app-service-51e7
 - Extracting stored passwords and certificates from Automation accounts <br/> https://dev.to/cheahengsoon/extracting-stored-passwords-and-certificates-from-automation-accounts-f7n
+- Escalating Privileges using a misconfigured service principal <br/> https://dev.to/cheahengsoon/escalating-privileges-using-a-misconfigured-service-principal-o66
 
 
 
